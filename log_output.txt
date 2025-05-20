@@ -1,0 +1,26 @@
+[ndn1665] Tue May 20 11:07:27 2025 +0900 log del 37e8eec
+[ndn1665] Tue May 20 11:05:59 2025 +0900 use case desc conf 75e5e0b
+[ndn1665] Tue May 20 11:04:57 2025 +0900 use case dig config c5ea3b9
+[ndn1665] Tue May 20 11:03:41 2025 +0900 use case dig config 60a9e51
+[Taeil Noh] Tue May 20 11:01:24 2025 +0900 Update use_case_descriptions.md 3cfb1d4
+[Taeil Noh] Tue May 20 10:57:51 2025 +0900 andig e1aad39
+[Taeil Noh] Tue May 20 10:56:31 2025 +0900 Delete analysis class diagram.pdf 491756e
+[ndn1665] Tue May 20 05:43:24 2025 +0900 log 6939b4a
+[ndn1665] Tue May 20 05:42:33 2025 +0900 config cccee7b
+[ndn1665] Tue May 20 05:41:32 2025 +0900 config b199d25
+[Taeil Noh] Tue May 20 05:39:52 2025 +0900 Delete requirement_list.pdf 54edf5d
+[Taeil Noh] Tue May 20 05:36:52 2025 +0900 Add files via upload 5d459f4
+[Taeil Noh] Tue May 20 05:36:16 2025 +0900 Delete analysis_class_diagram.pdf f207b8f
+[ndn1665] Tue May 20 05:34:14 2025 +0900 complete files 43c9cf6
+[Taeil Noh] Tue May 20 05:26:02 2025 +0900 Add files via upload ef89a99
+[Taeil Noh] Tue May 20 03:20:19 2025 +0900 cm diag 9b81f24
+[Taeil Noh] Tue May 20 03:19:54 2025 +0900 Delete communication_diagram.pdf 8f1daf8
+[Taeil Noh] Tue May 20 03:06:51 2025 +0900 Add files via upload f867571
+[ndn1665] Mon May 19 17:35:21 2025 +0900 description config ecf58f4
+[ndn1665] Mon May 19 17:25:01 2025 +0900 Merge branch 'main' of github.com:ndn1665/sweng_homework 040c883
+[ndn1665] Mon May 19 17:23:20 2025 +0900 use case description ed041ac
+[Taeil Noh] Mon May 19 17:12:01 2025 +0900 Update requirement_list.md 461a985
+[Taeil Noh] Mon May 19 16:51:27 2025 +0900 Use_Case_Diagram pdf 45e8b86
+[Taeil Noh] Mon May 19 16:49:51 2025 +0900 Add files via upload a14fcc0
+[ndn1665] Mon May 19 16:47:53 2025 +0900 requirement_list.md 2238cee
+[ndn1665] Mon May 19 16:47:33 2025 +0900 first commit 4d7a393
