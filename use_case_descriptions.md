@@ -51,7 +51,7 @@
 
 ### use case description : 자전거 대여 정보 조회
 
-|Actor Action ( user ) | System Response |
+|Actor Action ( 회원 ) | System Response |
 |-----------------------|-----------------|
 |1.자전거 대여 정보 조회용 입력(5 1)을 입력한다.|2.자전거 대여 정보 조회 완료 메시지인 "5.1. 자전거 대여 리스트"와 회원이 대여한 자전거의 리스트가 자전거ID 자전거 제품명 형식으로 0개 이상의 줄로 출력된다.|
 
@@ -61,7 +61,7 @@
 
 ### use case description : 시스템 종료
 
-|Actor Action ( 회원 ) | System Response |
+|Actor Action ( user ) | System Response |
 |-----------------------|-----------------|
 |1.시스템 종료용 입력(6 1)을 입력한다.|2.시스템이 종료된다.|
 
